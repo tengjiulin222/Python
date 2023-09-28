@@ -16,3 +16,4 @@ pyttsx3
 webbrowser
 smtplib
 speech_recognition
+pillow>=10.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
